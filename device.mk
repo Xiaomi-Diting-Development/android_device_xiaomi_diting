@@ -184,6 +184,7 @@ PRODUCT_PACKAGES += \
     DitingSettings \
     DitingSettingsProvider \
     DitingSystemUI \
+    DitingSystemUIAOSPA \
     FrameworksResTarget \
     WifiResTarget
 
