@@ -179,6 +179,8 @@ PRODUCT_PACKAGES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
+    DitingFrameworks \
+    DitingSystemUI \
     FrameworksResTarget \
     WifiResTarget
 
