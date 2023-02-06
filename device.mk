@@ -180,6 +180,7 @@ PRODUCT_PACKAGES += \
 # Overlays
 PRODUCT_PACKAGES += \
     DitingFrameworks \
+    DitingSettings \
     DitingSettingsProvider \
     DitingSystemUI \
     FrameworksResTarget \
