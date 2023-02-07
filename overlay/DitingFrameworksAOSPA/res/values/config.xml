@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fingerprint from stock ROM -->
+    <string name="config_stockFingerprint" translatable="false">Xiaomi/diting/diting:13/SKQ1.220303.001/V14.0.8.0.TLFCNXM:user/release-keys</string>
+</resources>
